@@ -1,6 +1,7 @@
 - [ ] Date: 
 - [ ] Venue: 
 - [ ] Food & Drinks:
+- [ ] Added to the Anonymous Function website
 - [ ] Agenda/Talks:
 - [ ] Meetup Page:
 - [ ] Meetup Announcement:
