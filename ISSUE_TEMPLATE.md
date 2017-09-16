@@ -4,7 +4,6 @@
 - [ ] Agenda/Talks:
 - [ ] Meetup Page:
 - [ ] Meetup Announcement:
-- [ ] Buffer Announcement:
+- [ ] Buffer Announcement: 
 - [ ] Buffer Reminder:
-- [ ] Rust Herald Announcement:
 - [ ] Livestream/Recording:
