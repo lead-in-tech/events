@@ -1,0 +1,9 @@
+- [ ] Date: 
+- [ ] Venue: 
+- [ ] Food & Drinks:
+- [ ] Agenda/Talks:
+- [ ] Meetup Page:
+- [ ] Meetup Announcement:
+- [ ] Twitter Announcement:
+- [ ] Rust Herald Announcement:
+- [ ] Livestream/Recording:
