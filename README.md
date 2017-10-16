@@ -1,6 +1,6 @@
-# Anonymous Function Community Events
+# Lead in Tech Community Events
 
-Use this repository to [propose or request events](https://github.com/anonymous-function/events/issues) for the meetup of the Anonymous Function Community.
+Use this repository to [propose or request events](https://github.com/lead-in-tech/events/issues) for the meetup of the Lead in Tech Community.
 
 Propose or request an event; no need to worry about making mistakes or giving/requesting an event that's already been done!
 
